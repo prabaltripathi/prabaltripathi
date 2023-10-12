@@ -3,7 +3,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
     </div>
-    <img align="right" height="150" src="https://www.google.com/search?client=firefox-b-d&q=free+goku+image#vhid=Z4Xx9tb0oX7g-M&vssid=l"/>
+    <img align="right" height="150" src="https://wallpapers.com/images/hd/dragon-ball-z-goku-kamehameha-e39b7q2766bfwzx0.webp"/>
  
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
